@@ -1,0 +1,16 @@
+{
+  "name": "모바일 링크 수집 웹앱",
+  "short_name": "LinkBox",
+  "description": "모바일에서 링크를 빠르게 수집하는 웹앱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5a6",
+  "icons": [
+    { "src": "/icons/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icons/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/icons/favicon-32x32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "/icons/favicon-16x16.png", "sizes": "16x16", "type": "image/png" }
+  ]
+}
